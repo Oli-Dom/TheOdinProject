@@ -1,0 +1,49 @@
+<div class="card-container">
+      <div class="card" style="width: 18rem">
+        <img
+          src="https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h5 class="card-title">Lasagna</h5>
+          <a href="./recipes/lasagna.html" class="btn btn-primary">Recipe</a>
+        </div>
+      </div>
+
+      <div class="card" style="width: 18rem">
+        <img
+          src="https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h5 class="card-title">Birria Tacos</h5>
+          <a href="./recipes/lasagna.html" class="btn btn-primary">Recipe</a>
+        </div>
+      </div>
+
+      <div class="card" style="width: 18rem">
+        <img
+          src="https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h5 class="card-title">California Rolls</h5>
+          <a href="./recipes/lasagna.html" class="btn btn-primary">Recipe</a>
+        </div>
+      </div>
+
+      <div class="card" style="width: 18rem">
+        <img
+          src="https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg"
+          class="card-img-top"
+          alt="..."
+        />
+        <div class="card-body">
+          <h5 class="card-title">California Rolls</h5>
+          <a href="./recipes/lasagna.html" class="btn btn-primary">Recipe</a>
+        </div>
+      </div>
+    </div>

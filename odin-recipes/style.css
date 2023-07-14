@@ -1,0 +1,62 @@
+* {
+    background-color: #A9714B !important;
+    }
+
+#circle {
+    width: 200px !important;
+    height: 100px !important;
+    background-color: #eaeaea !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 0 auto !important;
+}
+
+#title {
+    color: #262A10 !important;
+    background-color: #eaeaea !important;
+    font-size: 140%;
+}
+
+
+.intro {
+    margin-top: 40px;
+    color: black !important;
+    font-size: 110% !important;
+    margin-bottom: 40px;
+}
+
+.carouselItem {
+    height: auto;
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.carouselInfo{
+    text-align: center;
+    color: #54442B;
+}
+.carouselInfo a{
+    text-decoration: none;
+    color: #141204;
+}
+.carousel-indicators{
+    background-color: transparent !important;
+}
+
+/* .card-body{
+    background-color: #54442B !important;
+}
+
+.card-title{
+    color: #fff !important;
+    background-color: #54442B !important;
+}
+
+.card-container{
+    display: flex !important;
+    justify-content: space-around;
+} */
+
